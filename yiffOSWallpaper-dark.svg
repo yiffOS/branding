@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 1016 571.50002"
+   version="1.1"
+   id="svg889"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="yiffOSWallpaper-dark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview891"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.18552013"
+     inkscape:cx="1735.6607"
+     inkscape:cy="328.80529"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs886">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3191-1">
+      <stop
+         style="stop-color:#725cff;stop-opacity:1;"
+         offset="0"
+         id="stop3187" />
+      <stop
+         style="stop-color:#a380ff;stop-opacity:1"
+         offset="1"
+         id="stop3189" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3191-1"
+       id="linearGradient4141"
+       gradientUnits="userSpaceOnUse"
+       x1="209.55458"
+       y1="75.300308"
+       x2="512.08459"
+       y2="512.08582" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#1a141a;stroke-width:0.264583;fill-opacity:1"
+       id="rect972"
+       width="1026.6851"
+       height="576.89838"
+       x="-10.398101"
+       y="-4.3511081" />
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-1"
+       transform="matrix(1.9577957,0,0,1.9577957,751.01252,306.94826)">
+      <path
+         style="fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.578031,97.876003 17.137032,14.526827 21.617501,-7.03813 10.629659,0.41104 44.343237,30.06701 19.1836,-0.35338 0.0152,-69.497094 -80.480694,-46.758101 3.409402,31.742756 -10.117852,12.014102 -5.787245,18.063023 z"
+         id="path54" />
+      <path
+         style="fill:url(#linearGradient4141);fill-opacity:1;fill-rule:nonzero;stroke:#33213a;stroke-width:0.707107;stroke-opacity:1"
+         d="m 356.09512,455.39673 c -83.64424,-56.88693 -83.72879,-56.94208 -87.32769,-56.96192 -1.98131,-0.0109 -11.21173,-0.31679 -20.51204,-0.67974 l -16.90966,-0.65989 -36.12335,11.6886 c -19.86785,6.42873 -37.95096,12.28153 -40.18471,13.00623 l -4.06136,1.31762 -8.03158,-6.49285 c -4.41737,-3.57107 -18.70889,-15.50935 -31.75894,-26.52952 l -23.727355,-20.03667 2.586277,-2.2976 c 1.422452,-1.26368 17.859778,-15.13667 36.527398,-30.82886 18.66762,-15.69218 34.17748,-28.87022 34.46635,-29.28451 0.28888,-0.41431 4.68343,-13.4812 9.76569,-29.03755 14.52748,-44.4674 10.69214,-37.01384 32.40079,-62.96738 l 18.65006,-22.29688 -0.48259,-5.09758 C 220.8035,182.22898 210.60564,84.461464 209.97442,78.965117 l -0.43253,-3.766376 1.64862,1.035381 c 0.90675,0.56946 11.99007,7.001516 24.6296,14.293457 21.7391,12.541621 45.12269,26.086421 68.94291,39.934741 5.83363,3.39149 19.83435,11.50516 31.1127,18.03037 11.27835,6.5252 23.05168,13.36624 26.16295,15.20228 3.11127,1.83605 12.97541,7.57294 21.92031,12.74865 8.9449,5.1757 27.55949,15.97833 41.36575,24.00584 13.80626,8.02751 29.87526,17.36313 35.70889,20.74582 5.83363,3.38269 19.51615,11.32839 30.40559,17.65712 l 19.79899,11.50677 0.17865,130.61629 0.17865,130.61629 -34.47333,0.01 c -18.96033,0.006 -35.10972,0.1734 -35.88754,0.37353 -1.03441,0.26614 -23.89971,-14.92865 -85.13951,-56.5782 z"
+         id="path292"
+         transform="scale(0.26458334)" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.707107"
+         d="M 423.91051,501.53399 C 326.25094,435.08858 293.92395,413.1458 283.44918,406.19221 l -11.41435,-7.57732 -14.04149,-0.47522 c -7.72283,-0.26137 -17.22348,-0.53607 -21.11257,-0.61044 l -7.07107,-0.13522 -29.34493,9.6487 c -16.13971,5.30678 -33.90052,11.08882 -39.46847,12.84896 l -10.12355,3.20027 -5.78636,-4.68604 C 122.74086,400.30955 87.24638,369.96707 87.825038,369.456 c 0.30982,-0.27363 16.640212,-14.02707 36.289752,-30.56318 19.64954,-16.53611 36.10789,-30.52527 36.57411,-31.08702 0.82659,-0.99599 4.16165,-10.84354 16.78247,-49.5542 l 6.17313,-18.93427 5.85932,-7.22869 c 3.22262,-3.97577 11.62063,-14.06994 18.66225,-22.43148 7.04161,-8.36154 12.9845,-15.86915 13.20641,-16.68357 0.30229,-1.10941 -7.82501,-82.36886 -11.39767,-113.95769 l -0.42023,-3.715592 16.13797,9.299462 c 8.87588,5.114704 40.00282,23.14432 69.17098,40.06581 72.02803,41.78603 77.88415,45.18617 115.96551,67.33106 18.27871,10.62935 37.52969,21.80765 42.77996,24.84067 5.25027,3.03302 20.36467,11.80647 33.58757,19.49654 l 24.04163,13.98195 0.17865,130.63798 0.17865,130.63797 h -33.85461 c -18.62004,0 -34.76943,0.17257 -35.88754,0.3835 -1.74281,0.32875 -4.3035,-1.16136 -17.94284,-10.44126 z"
+         id="path331"
+         transform="scale(0.26458334)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:86.2272px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e2dee3;fill-opacity:1;stroke:none;stroke-width:2.15569"
+       x="29.563698"
+       y="522.5191"
+       id="text2856"><tspan
+         sodipodi:role="line"
+         id="tspan2854"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:86.2272px;font-family:Manrope;-inkscape-font-specification:'Manrope, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e2dee3;fill-opacity:1;stroke-width:2.15569"
+         x="29.563698"
+         y="522.5191">yiffOS</tspan></text>
+  </g>
+</svg>
