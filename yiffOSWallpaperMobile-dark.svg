@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1500"
-   height="500"
-   viewBox="0 0 396.87499 132.29167"
+   width="1284"
+   height="2778"
+   viewBox="0 0 339.72499 735.01252"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
-   sodipodi:docname="yiffOSBanner-dark.svg"
-   inkscape:export-filename="/home/evie/yiffos-branding/yiffOSBanner-dark.png"
+   sodipodi:docname="yiffOSWallpaperMobile-dark.svg"
+   inkscape:export-filename="/home/evie/yiffos-branding/yiffOSWallpaperMobile-dark.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,25 +27,19 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     width="1500px"
      units="px"
-     inkscape:zoom="0.74208053"
-     inkscape:cx="780.23877"
-     inkscape:cy="157.66483"
+     width="2778px"
+     inkscape:zoom="0.13118254"
+     inkscape:cx="320.16455"
+     inkscape:cy="1677.0524"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
-    <rect
-       x="160.73813"
-       y="190.83639"
-       width="297.09533"
-       height="160.54946"
-       id="rect6425" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3191-1">
@@ -73,31 +67,21 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#1a141a;stroke-width:0.284653"
-       id="rect2620"
-       width="398.80383"
-       height="133.84549"
-       x="-0.39917895"
-       y="-0.63921553" />
+       style="fill:#1a141a;stroke-width:0.250996"
+       id="rect846"
+       width="345.81763"
+       height="746.4314"
+       x="-3.2227242"
+       y="-10.205544" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2">
-    <text
-       xml:space="preserve"
-       transform="matrix(1.4993661,0,0,1.4993661,-193.36454,-259.44326)"
-       id="text6423"
-       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect6425);fill:#000000;fill-opacity:1;stroke:none"><tspan
-         x="160.73828"
-         y="227.05116"
-         id="tspan6216"><tspan
-           style="fill:#e2dee3"
-           id="tspan6214">yiffOS</tspan></tspan></text>
     <g
        inkscape:label="Layer 1"
-       id="layer1-2"
-       transform="matrix(1.1175236,0,0,1.1175236,246.99065,-18.24783)">
+       id="layer1-3"
+       transform="matrix(1.9644726,0,0,1.9644726,76.415699,469.71984)">
       <path
          style="fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 22.578031,97.876003 17.137032,14.526827 21.617501,-7.03813 10.629659,0.41104 44.343237,30.06701 19.1836,-0.35338 0.0152,-69.497094 -80.480694,-46.758101 3.409402,31.742756 -10.117852,12.014102 -5.787245,18.063023 z"
@@ -113,5 +97,16 @@
          id="path331"
          transform="scale(0.26458334)" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:92.7308px;line-height:1.25;font-family:sans-serif;fill:#e2dee3;fill-opacity:1;stroke:none;stroke-width:2.31828"
+       x="30.905539"
+       y="289.70993"
+       id="text4140"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:92.7308px;font-family:Manrope;-inkscape-font-specification:'Manrope, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e2dee3;fill-opacity:1;stroke-width:2.31828"
+         x="30.905539"
+         y="289.70993">yiffOS</tspan></text>
   </g>
 </svg>
